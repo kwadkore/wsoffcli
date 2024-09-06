@@ -8,8 +8,8 @@ server:
   port: 0
   host: ""
 schema:
-- name: /home/kms/work/go/src/github.com/kwadkore/ws-scraper
-  path: /home/kms/work/go/src/github.com/kwadkore/ws-scraper
+- name: /home/kms/work/go/src/github.com/kwadkore/wsoffcli
+  path: /home/kms/work/go/src/github.com/kwadkore/wsoffcli
   commands:
     vet:
       status: true

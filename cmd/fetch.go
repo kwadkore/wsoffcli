@@ -26,7 +26,7 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/kwadkore/ws-scraper/fetch"
+	"github.com/kwadkore/wsoffcli/fetch"
 	"github.com/spf13/cobra"
 	"github.com/spf13/viper"
 )

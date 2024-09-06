@@ -1,3 +1,6 @@
+> [!Note]
+> Given the permanent divergence from the parent repository, no further changes are planned in this fork. Any additional modifications will be done in github.com/kwadkore/ws-scraper.
+
 ## wsoffcli
 
 Collect data from https://ws-tcg.com/ and https://en.ws-tcg.com/.
